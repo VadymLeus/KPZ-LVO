@@ -5,3 +5,6 @@ C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-0
 C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\obj\Debug\KPZ-LAB-01.csproj.CoreCompileInputs.cache
 C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\obj\Debug\KPZ-LAB-01.exe
 C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\obj\Debug\KPZ-LAB-01.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\bin\Debug\ZooClassLibrary.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\bin\Debug\ZooClassLibrary.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\KPZ-LAB-01\obj\Debug\KPZ-LAB-01.csproj.CopyComplete
